@@ -143,8 +143,6 @@ SQL `CASE WHEN` logic is implemented using Pandas:
 
 ---
 
----
-
 ## 🎯 Purpose of This Project
 This project demonstrates:
 - Strong SQL fundamentals
