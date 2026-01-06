@@ -8,7 +8,7 @@ for common **data loading, cleaning, filtering, transformation, and joining oper
 Each SQL operation is paired with its **equivalent Pandas implementation** to
 demonstrate how the same data tasks are performed across both technologies.
 
-This project focuses on **hands-on data manipulation**, not just analysis outcomes.
+This project focuses on **practical data manipulation** using both technologies.
 
 ---
 
