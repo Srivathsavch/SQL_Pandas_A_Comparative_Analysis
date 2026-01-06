@@ -157,3 +157,16 @@ for data analyst and data engineering roles.
 
 ## 👤 Author
 **Chakpalli Srivathsav**
+
+Hi! I am **Srivathsav**, a motivated learner transitioning into the **Data Science** domain, with hands-on experience in:
+
+* Python
+* SQL
+* NumPy
+* Pandas
+* Matplotlib
+* Tableau
+
+---
+
+⭐ If you find this project useful, feel free to star the repository!
