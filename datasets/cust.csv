@@ -1,0 +1,11 @@
+customer_id,customer_name,city,signup_date,customer_type
+C001,          Aarav_Sharma,Bangalore,10-01-2023,Premium
+C002,Meera_Iyer,,05-02-2023,Regular
+C003,Rahul_Verma,Delhi,20-02-2023,Premium
+C004,Ananya_Singh            ,Mumbai,,Regular
+C005,Rohit_Mehta,Pune,18-03-2023,
+C006,Priya_Nair       ,,02-04-2023,Regular
+C007,,Delhi,10-04-2023,Premium
+C008,             Neha_Kapoor   ,Jaipur,,
+C009,   Suresh_Reddy,Hyderabad,01-05-2023,Premium
+C003,Rahul_Verma,Delhi,20-02-2023,Premium

@@ -1,0 +1,11 @@
+order_id,customer_id,order_date,product,order_amount,payment_mode
+O1001,C001,2023-05-10,Laptop,75000,Credit_Card
+O1002,C002,2023-05-12,Mobile,,UPI
+O1003,C001,,Headphones,3000,Debit_Card
+O1004,C003,2023-05-18,Tablet,20000,Credit_Card
+O1005,C005,2023-05-20,,72000,Net_Banking
+O1006,C007,2023-05-22,Mobile,,UPI
+O1007,C003,2023-05-25,Smart_Watch,15000,
+O1008,C009,,Tablet,22000,
+O1009,C010,2023-05-30,Headphones,3500,UPI
+O1004,C003,2023-05-18,Tablet,20000,Credit_Card

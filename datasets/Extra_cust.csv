@@ -1,0 +1,6 @@
+cust_id,name,place,join_date,customer_type
+C001,          Aarav _Sharma,Bangalore,2023-01-10,Premium
+C0010,Bunny,,2023-02-05,Regular
+C0012,Vinny,Delhi,2023-02-20,Premium
+C0013,Chinny            ,Mumbai,,Regular
+C0014,Minny,Pune,2023-03-18,
