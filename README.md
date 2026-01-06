@@ -1,5 +1,5 @@
 # SQL_Pandas_A_Comparative_Analysis
-# SQL vs Pandas – Practical Data Cleaning & Manipulation Guide
+### SQL vs Pandas – Practical Data Cleaning & Manipulation Guide
 
 ## 📌 Project Overview
 This project is a **side-by-side practical comparison of SQL Server and Python Pandas**
