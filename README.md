@@ -15,7 +15,7 @@ This project focuses on **hands-on data manipulation**, not just analysis outcom
 ## 📂 Datasets
 Two CSV files are used throughout the project:
 
-- `cust.csv` — customer master data
+- cust.csv — customer master data
 - `ords.csv` — order transaction data
 
 The datasets intentionally include:
@@ -158,6 +158,3 @@ for data analyst and data engineering roles.
 
 ## 👤 Author
 **Chakpalli Srivathsav**
-
-
-## 📁 Repository Structure
